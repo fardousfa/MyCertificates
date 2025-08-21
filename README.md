@@ -9,7 +9,12 @@
 | **Problem Solving with Excel**  | PwC |<a href="https://www.coursera.org/account/accomplishments/verify/7HLYCBW6445V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">*Link*</a>
 | **Math for Finance Professionals** | Corporate Finance Institute |<a href="https://credentials.corporatefinanceinstitute.com/8598bb21-8224-441b-b71b-a00f24b21f28">*Link*</a> |
 | **Scenario & Sensitivity Analysis** | Corporate Finance Institute |<a href="https://credentials.corporatefinanceinstitute.com/f191c722-4a15-4fd9-83f3-957d0f1cc456#acc.zsQmuHFK">*Link*</a> |
+| **Excel Fundamentals – Formulas for Finance** | Corporate Finance Institute |<a href="https://credentials.corporatefinanceinstitute.com/76d27d8c-106c-4dad-abd1-c5d41395c26f#acc.uaUmyP8i">*Link*</a>
 | **Financial Analyst Job Simulation** | Forage |<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/TtC5eCKD3FFzH5xcz_New%20York%20Jobs%20CEO%20Council_wyfTCw9ToBzrCqYFZ_1705899499255_completion_certificate.pdf">*Link*</a> |
 | **Bloomberg Market Concepts** | Bloomberg |<a href="https://portal.bloombergforeducation.com/certificates/vZDVEQwBa9eBteVdZQ4oz1fq">*Link*</a>
 | **Forensic Accounting and Fraud Examination** | West Virginia University |<a href="https://www.coursera.org/account/accomplishments/verify/W7SHKCBUNNU3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">*Link*</a>
-| **Use Power Bi for Financial Data Analysis** | Coursera |<a href="https://www.coursera.org/account/accomplishments/certificate/MULRZP57QA28">*Link*</a>
+| **Use Power Bi for Financial Data Analysis** | Coursera Project Network |<a href="https://www.coursera.org/account/accomplishments/certificate/MULRZP57QA28">*Link*</a>
+
+
+
+
