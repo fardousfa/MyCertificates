@@ -18,6 +18,7 @@
 | **Microsoft Power BI Desktop for Business Intelligence** | Udemy |<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a94b4cf5-7ebb-4534-b674-120bb73c681f.pdf">*Link*</a>
 | **Use Power Bi for Financial Data Analysis** | Coursera Project Network |<a href="https://www.coursera.org/account/accomplishments/certificate/MULRZP57QA28">*Link*</a>
 | **Learning Excel What-If Analysis** | LinkedIn Learning |<a href="https://www.linkedin.com/learning/certificates/6f48bd7a602cd44b40fe5398827dcd80d865e7d5907dd4ef53421a1409eb270b?u=2146476">*Link*</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/U04VK6AUX2L5" target="_blank" rel="noopener noreferrer">*Link*</a>
 
 
 
