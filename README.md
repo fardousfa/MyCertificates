@@ -1,5 +1,6 @@
 | Certificates | Institute/Issuer | Certificate Link
 | ---- | ----- |---- |
+| **Microsoft Certified: Power BI Data Analyst Associate - PL 300** | Microsoft |<a href="https://learn.microsoft.com/api/credentials/share/en-us/FardousMahmudShuvo-0818/B6CEC7F21749BC83?sharingId=C60B6F70229ED671">*Link*</a> |
 | **Sage Business Cloud Accounting Certified Application Specialist** | Sage |<a href="https://credentials.sage.com/bd17431b-569b-40b8-a925-4a984b842e1d?key=ea7f6cd4588d5af7d9601e2f904087c816203d360b2b29e8b0d013a4d782cf0d#acc.lEWDdhnY">*Link*</a> |
 | **Certified Xero Advisor** | Xero |<a href="https://learning.central.xero.com/student/award/9UhwFCL74DtBMTL7GFGeVqE5">*Link*</a> |
 | **Financial Analysis of Scenarios and Decisions** | University of Illinois Urbana-Champaign on Coursera |<a href="https://www.coursera.org/account/accomplishments/verify/U04VK6AUX2L5">*Link*</a> |
