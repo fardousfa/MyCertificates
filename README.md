@@ -19,7 +19,6 @@
 | **Forensic Accounting and Fraud Examination** | West Virginia University (Online) |<a href="https://coursera.org/share/3be203f9e3bde3262fd7805e160d1b61">*Link*</a>
 | **Financial Analyst Job Simulation** | Forage |<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/New%20York%20Jobs%20CEO%20Council/TtC5eCKD3FFzH5xcz_New%20York%20Jobs%20CEO%20Council_wyfTCw9ToBzrCqYFZ_1705899499255_completion_certificate.pdf">*Link*</a> |
 | **The Complete Financial Analyst Course** | Udemy |<a href="https://www.udemy.com/certificate/UC-6498e13e-e45b-480e-94e1-de7426ce0568/">*Link*</a>
-| **Microsoft Power BI Desktop for Business Intelligence** | Udemy |<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a94b4cf5-7ebb-4534-b674-120bb73c681f.pdf">*Link*</a>
 | **Use Power Bi for Financial Data Analysis** | Coursera Project Network |<a href="https://www.coursera.org/account/accomplishments/certificate/MULRZP57QA28">*Link*</a>
 | **Learning Excel What-If Analysis** | LinkedIn Learning |<a href="https://www.linkedin.com/learning/certificates/6f48bd7a602cd44b40fe5398827dcd80d865e7d5907dd4ef53421a1409eb270b?u=2146476">*Link*</a>
 | **Prepare for the Power BI Data Analyst Associate (PL-300) Certification** | LinkedIn Learning |<a href="https://www.linkedin.com/learning/certificates/c77a2821723c566cf7322ae868c66f51e9725ff415d33e424ab5e1ae0c225a3e?trk=share_certificate">*Link*</a>
